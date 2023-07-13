@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\obj\Debug\Day4exercise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\obj\Debug\Day4exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\obj\Debug\Day4exercise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\bin\Debug\Day4exercise.exe.config
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\bin\Debug\Day4exercise.exe
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\bin\Debug\Day4exercise.pdb
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\obj\Debug\Day4exercise.exe
+C:\Users\Lenovo\source\repos\Day4exercise\Day4exercise\obj\Debug\Day4exercise.pdb
